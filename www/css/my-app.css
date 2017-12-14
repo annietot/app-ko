@@ -1,0 +1,38 @@
+
+body{
+	background-image: linear-gradient(to right, rgba(247, 93, 89, 1.2), yellow, rgba(247, 93, 89, 1.2));
+}
+
+button{
+	color:blue;
+	font-size: 50px;
+	background-color: pink;
+	border:none;
+}
+
+input{
+	font-size: 50px;
+}
+
+.text{
+	font-size: 50px;
+	font-family: 'arial';
+}
+
+ul li{
+	font-size: 30px;
+	color:red;
+}
+
+.imCustomClass{
+	text-decoration: underline;
+	color:yellow;
+}
+
+#audio{
+	display: none;
+}
+
+body{
+	background-image: linear-gradient(to right, rgba(247, 93, 89, 1.2), yellow, rgba(247, 93, 89, 1.2));
+}
